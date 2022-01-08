@@ -1,0 +1,14 @@
+Field 1	Chapter number
+Field 2	Verse number (note: may = 0 or 12b)
+Field 3	Initial Parse code
+Field 4	Detailed Parse code
+Field 5	A unique grammatical identifier
+Field 6	Word as it is to be displayed in the text
+Field 7	Word a) all lower case, b) stripped of accents and related furniture
+Field 8	Word, as in field 7 but also with breathings and iota subscripts removed
+Field 9	Immediate root of word in field 6
+Field 10	Pre-word characters
+Field 11	Post-word non-punctuation characters
+Field 12	Punctuation
+Field 13	Transliterated version of field 6
+Fields 14+	Transliteration of root (with prefixed prepositions separated

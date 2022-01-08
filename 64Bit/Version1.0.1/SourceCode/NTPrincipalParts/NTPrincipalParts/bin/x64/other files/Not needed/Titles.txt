@@ -1,0 +1,27 @@
+01	Matthew	Mt
+02	Mark	Mk
+03	Luke	Lk
+04	John	Jn
+05	Acts of the Apostles	Ac
+06	Romans	Ro
+07	1 Corinthians	1Co
+08	2 Corinthians	2Co
+09	Galatians	Ga
+10	Ephesians	Eph
+11	Philippians	Php
+12	Colossians	Col
+13	1 Thessalonians	1Th
+14	2 Thessalonians	2Th
+15	1 Timothy	1Ti
+16	2 Timothy	2Ti
+17	Titus	Tit
+18	Philemon	Phm
+19	Hebrews	Heb
+20	James	Jas
+21	1 Peter	1Pe
+22	2 Peter	2Pe
+23	1 John	1Jn
+24	2 John	2Jn
+25	3 John	3Jn
+26	Jude	Jud
+27	Revelation	Re
